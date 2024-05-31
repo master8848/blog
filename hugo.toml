@@ -1,0 +1,37 @@
+baseURL = "https://example.com/"
+title = "Blog site"
+author = "Saurav sanjel"
+copyright = "Saurav sanjel"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "favicon.jpg"
+
+  [params.footer]
+    since = 2024
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   pageRef = "/about"
+  #   weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

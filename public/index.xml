@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog site</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Blog site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Saurav sanjel</copyright>
+    <lastBuildDate>Fri, 31 May 2024 16:30:59 +0530</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Comprehensive Overhaul of the 21st Century Education System: Integrating Economics, Flexibility, and Lifelong Learning</title>
+      <link>https://example.com/posts/my-first-post/</link>
+      <pubDate>Fri, 31 May 2024 16:30:59 +0530</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>Abstract The traditional education system which is prevalent worldwide, is increasingly failing to meet the needs of ever growing and demanding society. This paper proposes a revolutionary education model that incorporates economic considerations, flexible learning paths, and lifelong educational opportunities. By allowing individuals to pursue education at their own pace and on their own terms, this model aims to address the limitations of the current education system. Key components include the integration of multiple technologies, the combination of educational levels, subject-specific certifications, and open-book examinations.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://example.com/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
